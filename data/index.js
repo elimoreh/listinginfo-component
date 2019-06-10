@@ -1,6 +1,6 @@
 const mongodb = require('mongodb');
 
-const uri = 'mongodb://localhost/carebnb';
+const uri = 'mongodb://172.17.0.2/carebnb';
 // Connect to database
 const connect = (type, cb, data) => {
   mongodb.MongoClient.connect(uri, (connectionErr, client) => {
