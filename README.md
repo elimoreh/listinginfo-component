@@ -23,9 +23,9 @@ To run the test built for the module simply use `npm test`
   **Styling**: Styled Components  
 
 ## AWS link
-This component is deployed on an amazon EC2 instance at the following link: 
-http://ec2-13-57-31-14.us-west-1.compute.amazonaws.com/?listingid=79
-The component support listing ids from 1-100 so feel free to change the id at the end of the url.
+This component is deployed on an amazon EC2 instance at the following link:  
+http://ec2-13-57-31-14.us-west-1.compute.amazonaws.com/?listingid=79 
+The component support listing ids from 1-100 so feel free to change the id at the end of the url. 
 
 
 ## Visual Demo
